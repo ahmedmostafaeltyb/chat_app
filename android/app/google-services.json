@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393527771745",
+    "project_id": "cahtapp-e36e4",
+    "storage_bucket": "cahtapp-e36e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393527771745:android:d2993ba3d12c5de50aa020",
+        "android_client_info": {
+          "package_name": "com.example.cahtapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0rIHDhOqg-yPRiGoRVJTGSUljSgOCB2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
